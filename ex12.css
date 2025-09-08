@@ -1,0 +1,38 @@
+.p{
+    color: white;      
+}
+
+.ming{
+    display: block;
+    width: 500px;
+    height: 500px;
+    background-color: darkolivegreen;
+    float: left;
+    font-size: 30px;
+
+}
+
+.arf{
+    display: block;
+    width: 500px;
+    height: 500px;
+    background-color:aquamarine;
+    float: right;
+    font-size: 30px;
+
+}
+
+img{
+    float: left;
+}
+
+span{
+    font-weight: bold;
+    display: block;
+    margin-top: 15px;
+}
+footer{
+    text-align: center;
+    clear: both;
+    background-color: coral;
+}
